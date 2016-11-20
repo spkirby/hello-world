@@ -1,8 +1,8 @@
-#include <stdio.h>
 #include "strings.h"
+#include "decoration.h"
 
 int main()
 {
-	puts(START_MESSAGE);
+	dec_puts(START_MESSAGE);
 	return 0;
 }
