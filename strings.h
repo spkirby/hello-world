@@ -1,0 +1,1 @@
+#define START_MESSAGE "Hello world"

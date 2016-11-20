@@ -1,7 +1,8 @@
 #include <stdio.h>
+#include "strings.h"
 
 int main()
 {
-	puts("Hello world");
+	puts(START_MESSAGE);
 	return 0;
 }
