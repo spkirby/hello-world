@@ -1,0 +1,1 @@
+void dec_puts(char* message);
